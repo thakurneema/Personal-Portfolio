@@ -1,0 +1,144 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans';
+}
+html, body{
+    width: 100%;
+    height: 100%;
+    font-size: 25px;
+    font-weight: normal;
+}
+.background{
+    width: 100%;
+    height: 100%;
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    overflow-y: auto;
+}
+header{
+    background: #262626;
+    height: 80px;
+    width: 100%;
+    top: 0%;
+    position: fixed;
+    z-index: 12;
+}
+.navbar{
+    background:rgb(15, 1, 15);
+    height: 80px;
+    width: 100%;
+    top: 0%;
+}
+label.logo{
+    color: rgb(255, 2, 158);
+    font-size:45px;
+    text-align: center;
+    line-height: 90px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+.navbar ul{
+    float: right;
+    margin-right: 20px;
+}
+.navbar ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+.navbar ul li a{
+    color: white;
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+a.active, a:hover{
+    background: #1b9bff;
+    transition: 300ms;
+    color:black;
+    width: 100%;
+}
+.content{
+    position: absolute;
+    width: 900px;
+    min-height: 200px;
+    height: auto;
+    text-align: center;
+    right: 850;
+    left: 200;
+    top: 35%;
+}
+.wrapper{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 850px;
+    display: flex;
+    box-shadow: 0 1px 20px 0 rgba(69,90,100,0.08);   
+}
+.wrapper .left{
+    width: 35%;
+    background: linear-gradient(to right, #ac0195, #ac0195);
+    padding: 30px 25px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    text-align: center;
+    color: #fff;
+}
+.wrapper .left img{
+    margin-bottom: 15px;
+    border-radius: 15px;
+}
+.wrapper .left h4{
+    margin-bottom: 10px;
+}
+.wrapper .left p{
+    font-size: 20px;
+}
+.wrapper .right{
+    width: 65%;
+    background: #fff;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    padding: 30px 25px;
+}
+
+.wrapper .right .info,
+.wrapper .right .Hobbies{
+    margin-bottom: 25px;
+}
+.wrapper .right .info h3,
+.wrapper .right .Hobbies h3{
+    margin-bottom: 15;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #e0e0e0;
+    color: #353c4e;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: medium;
+}
+.wrapper .right .info_data .data p,
+.wrapper .right .Hobbies_data .data p{
+    font-size: medium;
+    margin-bottom: 10px;
+    color: #919;
+}
+.wrapper .right .info_data,
+.wrapper .right .Hobbies_data{
+    display: flex;   
+    justify-content: space-between;
+}
+.wrapper .right .info_data .data,
+.wrapper .right .Hobbies_data .data{
+    width: 50;
+
+}
+
