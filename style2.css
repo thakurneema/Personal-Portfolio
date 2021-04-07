@@ -4,12 +4,11 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
-    font-family: 'Josefin Sans';
 }
 html, body{
     width: 100%;
     height: 100%;
-    font-size: 25px;
+    font-size: 14px;
     font-weight: normal;
 }
 .background{
@@ -21,19 +20,14 @@ html, body{
     position: relative;
     overflow-y: auto;
 }
-header{
-    background: #262626;
-    height: 80px;
-    width: 100%;
-    top: 0%;
-    position: fixed;
-    z-index: 12;
-}
-.navbar{
+.header{
     background:rgb(15, 1, 15);
     height: 80px;
     width: 100%;
     top: 0%;
+    position: fixed;
+    transition: 0.3s;
+    z-index: 12;
 }
 label.logo{
     color: rgb(255, 2, 158);
@@ -43,16 +37,16 @@ label.logo{
     padding: 0 100px;
     font-weight: bold;
 }
-.navbar ul{
+.header ul{
     float: right;
     margin-right: 20px;
 }
-.navbar ul li{
+.header ul li{
     display: inline-block;
     line-height: 80px;
     margin: 0 5px;
 }
-.navbar ul li a{
+.header ul li a{
     color: white;
     font-size: 17px;
     padding: 7px 13px;
@@ -80,13 +74,13 @@ a.active, a:hover{
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    width: 850px;
+    width: 950px;
     display: flex;
     box-shadow: 0 1px 20px 0 rgba(69,90,100,0.08);   
 }
 .wrapper .left{
     width: 35%;
-    background: linear-gradient(to right, #ac0195, #ac0195);
+    background: linear-gradient(to right, #db64cb, #ca53ba);
     padding: 30px 25px;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
@@ -99,9 +93,10 @@ a.active, a:hover{
 }
 .wrapper .left h4{
     margin-bottom: 10px;
+    font-size: 30px;
 }
 .wrapper .left p{
-    font-size: 20px;
+    font-size: 30px;
 }
 .wrapper .right{
     width: 65%;
@@ -109,6 +104,7 @@ a.active, a:hover{
     border-top-right-radius: 5px;
     border-bottom-left-radius: 5px;
     padding: 30px 25px;
+    font-size: large;
 }
 
 .wrapper .right .info,
@@ -124,10 +120,11 @@ a.active, a:hover{
     text-transform: uppercase;
     letter-spacing: 5px;
     font-size: medium;
+    font-size: large;
 }
 .wrapper .right .info_data .data p,
 .wrapper .right .Hobbies_data .data p{
-    font-size: medium;
+    font-size: large;
     margin-bottom: 10px;
     color: #919;
 }
@@ -138,7 +135,7 @@ a.active, a:hover{
 }
 .wrapper .right .info_data .data,
 .wrapper .right .Hobbies_data .data{
-    width: 50;
+    width: 80;
 
 }
 

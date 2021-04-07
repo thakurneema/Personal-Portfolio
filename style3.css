@@ -4,6 +4,7 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 html, body{
     width: 100%;
@@ -19,20 +20,26 @@ html, body{
     background-size: cover;
     position: relative;
     overflow-y: auto;
+   
 }
-header{
-    background: #262626;
-    height: 80px;
-    width: 100%;
-    top: 0%;
-    position: fixed;
-    z-index: 12;
+.content{
+    position: absolute;
+    width: 900px;
+    min-height: 200px;
+    height: auto;
+    text-align: center;
+    right: 850;
+    left: 200;
+    top: 35%;
 }
-.navbar{
+.header{
     background:rgb(15, 1, 15);
     height: 80px;
     width: 100%;
     top: 0%;
+    position: fixed;
+    transition: 0.3s;
+    z-index: 12;
 }
 label.logo{
     color: rgb(255, 2, 158);
@@ -42,16 +49,16 @@ label.logo{
     padding: 0 100px;
     font-weight: bold;
 }
-.navbar ul{
+.header ul{
     float: right;
     margin-right: 20px;
 }
-.navbar ul li{
+.header ul li{
     display: inline-block;
     line-height: 80px;
     margin: 0 5px;
 }
-.navbar ul li a{
+.header ul li a{
     color: white;
     font-size: 17px;
     padding: 7px 13px;
@@ -64,3 +71,90 @@ a.active, a:hover{
     color:black;
     width: 100%;
 }
+/* .content{
+    position: absolute;
+    width: 900px;
+    min-height: 200px;
+    height: auto;
+    text-align: center;
+    right: 950;
+    left: 600;
+    top: 35%;
+} */
+.skills {
+    width: 500px;
+    margin: 80px auto;
+    color: white;
+}
+.skills li {
+    margin: 20px 0;
+}
+.bar{
+    background: #353b48;
+    display: block;
+    height: 2px;
+    border: 5px solid rgba(0, 0, 0, 0.3);
+    border-radius: 3px;
+    overflow: hidden;
+    box-shadow: 0 0 10px #2187e7b3;
+}
+.bar span{
+    height: 2px;
+    float: left;
+    background: #2187e7;
+}
+.java {
+    width: 90%;
+    animation: java 2s;
+}
+.css{
+    width: 65%;
+    animation: css 2s;
+}
+.python {
+    width: 50%;
+    animation: python 2s;
+}
+.sql{
+    width: 75%;
+    animation: sql 2s;
+}
+@keyframes java {
+    0% {
+        width: 0%;
+    }
+    100% {
+        width: 90%;
+    }
+}
+
+@keyframes css {
+    0% {
+        width: 0%;
+    }
+    100% {
+        width: 65%;
+    }
+}
+
+
+@keyframes python {
+    0% {
+        width: 0%;
+    }
+    100% {
+        width: 80%;
+    }
+}
+
+
+@keyframes sql {
+    0% {
+        width: 0%;
+    }
+    100% {
+        width: 75%;
+    }
+}
+
+
