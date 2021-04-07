@@ -10,11 +10,13 @@ html, body{
     height: 100%;
     font-size: 14px;
     font-weight: normal;
+    font-style: italic;
 }
 .background{
     width: 100%;
     height: 100%;
-    background-image: url(1.jpg);
+    /* background-image: url(black.jpg); */
+    background-color: #000000;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -22,6 +24,7 @@ html, body{
 }
 .header{
     background:rgb(15, 1, 15);
+    /* background:rgba(253, 252, 252, 0); */
     height: 80px;
     width: 100%;
     top: 0%;
@@ -30,9 +33,10 @@ html, body{
     z-index: 12;
 }
 label.logo{
-    color: rgb(255, 2, 158);
+    color:white;
     font-size:45px;
-    text-align: center;
+    font-style: Bauhaus 93;
+    text-align: auto;
     line-height: 90px;
     padding: 0 100px;
     font-weight: bold;
@@ -80,7 +84,7 @@ a.active, a:hover{
 }
 .wrapper .left{
     width: 35%;
-    background: linear-gradient(to right, #db64cb, #ca53ba);
+    background: linear-gradient(to right, #222831, #222831);
     padding: 30px 25px;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
@@ -105,6 +109,7 @@ a.active, a:hover{
     border-bottom-left-radius: 5px;
     padding: 30px 25px;
     font-size: large;
+    /* font-weight: bolder; */
 }
 
 .wrapper .right .info,
@@ -116,26 +121,54 @@ a.active, a:hover{
     margin-bottom: 15;
     padding-bottom: 5px;
     border-bottom: 1px solid #e0e0e0;
+    font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #353c4e;
     text-transform: uppercase;
     letter-spacing: 5px;
-    font-size: medium;
-    font-size: large;
+    font-size: x-large;
+    font-weight: bolder;
 }
 .wrapper .right .info_data .data p,
 .wrapper .right .Hobbies_data .data p{
     font-size: large;
+    font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
     margin-bottom: 10px;
-    color: #919;
+    /* color: #919; */
+    color: black;
+   
 }
 .wrapper .right .info_data,
 .wrapper .right .Hobbies_data{
     display: flex;   
     justify-content: space-between;
+    
 }
 .wrapper .right .info_data .data,
 .wrapper .right .Hobbies_data .data{
     width: 80;
+    font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
+    
 
 }
+
+/* Footer */
+.main-footer {
+    position:fixed;
+    background-color: rgb(14, 14, 14);
+    color:#f2f2f2;
+    text-align:end;  
+    padding: 5px;
+    padding-bottom:7px 13px;
+    width: 100%;
+    height: 80px;
+    bottom: 0;   
+  }
+  .sub-footer {
+    padding: 5px;
+    height:16%;  
+  }
+  .sub-footer img {
+    width:30px;
+    height:35px;
+  }
 
