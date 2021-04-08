@@ -3,55 +3,79 @@
     <head>
         <meta charset="utf-8">
       <title>Thakur</title>
-      <meta name = "viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="stylesheet" type= "text/css" href="Qual.css">   
-      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-      </style>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     </head>
+
     <body>
-
-        <div class="header">
-            <label class="logo">NT</label>
-            <ul><div id="menu">
-                <li><a class="a" href="Home.html">Home</a></li>
-                <li><a class="b" href="About.html">About me</a></li>
-                <li><a class="active" href="Qualification.html">Qualifications</a></li>
-                <li><a class="c" href="Project.html">Project</a></li>
-                <li><a class="d" href="Contact.html">Contact me</a></li>
-            </div></ul>
-        </div>
-        <div class="background">
-        </div>
-        <div class = "content">
+      <div class="row">
+        <div class = col-5  id='heading'>
+            <h1>
+                NT
+            </h1>
         </div>
 
-<!-- <div class="con"> -->
-  <!-- <div class="container"> -->
-  <div class="skills">
-    <h1>My Skills</h1>
+        <div class=col-7 style="padding-right:20px;">
+            <div id="nav" class="navbar navbar-expand-md navbar-light">
+                <!-- Toggler/collapsibe Button -->
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 
-    <p>HTML</p>
+                <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                    <ul class="navbar-nav">
+                      <li class="nav-item btn_curr ">
+                        <a class="nav-link" href="Home.html">Home</a>
+                    </li>
+                        <li class="nav-item btn_curr ">
+                            <a class="nav-link" href="About.html">About</a>
+                        </li>
+                        <li class="nav-item ">
+                            <a class="nav-link btn" href="Qualification.html">Qualification</a>
+                        </li>
+                        <li class="nav-item ">
+                            <a class="nav-link btn" href="Project.html">Project</a>
+                        </li>
+                        <li class="nav-item ">
+                            <a class="nav-link btn" href="Contactme.html">Contactme</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>             
+    </div>
+
     <div class="container">
-      <div class="html">90%</div>
-    </div>
+      <h2>My Skills Bar</h2>
+      <!-- Blue -->
+      <p>HTML</p> 
+      <div class="progress">
+        <div class="progress-bar text-dark" style="width:90%"></div>
+      </div>
     
-    <p>CSS</p>
-    <div class="container">
-      <div class="css">80%</div>
-    </div>
+      <!-- Green -->
+      <p>CSS</p> 
+      <div class="progress">
+        <div class="progress-bar bg-success" style="width:80%"></div>
+      </div>
     
-    <p>JavaScript</p>
-    <div class="container">
-      <div class="js">65%</div>
-    </div>
+      <!-- Turquoise -->
+      <p>JS</p> 
+      <div class="progress">
+        <div class="progress-bar bg-info" style="width:65%"></div>
+      </div>
     
-    <p>PHP</p>
-    <!-- <div class="container"> -->
-      <!-- <div class="">60%</div> -->
+      <!-- Orange -->
+      <p>PHP</p> 
+      <div class="progress">
+         <div class="progress-bar bg-warning" style="width:60%"></div>
+      </div>
     </div>
-  </div>
-  </div>
-<br><br>
+
 
 <!-- Qualification Table -->
    
@@ -92,6 +116,7 @@
     </table>
 </div>
 
+
 <!-- Footer Section -->
 <footer class="main-footer">
   <h2>Connect</h2>
@@ -105,11 +130,10 @@
       </a>
   </nav>
 </section>
-<br>
-  <!-- <h5>Copyright © Thakur Neema. All Rights Reserved.</h5> -->
-  
+<br>   
  </footer>
   </body>    
 </html>
+
         
         
