@@ -40731,6 +40731,363 @@
             "keyStrokeTimeStamp": "Wed Apr 07 2021 21:07:10",
             "keyStrokeInfo": "<!-- ",
             "position": "50,60"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:49:13",
+            "keyStrokeInfo": "",
+            "position": "8,7"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 22:01:41",
+            "keyStrokeInfo": "\r\n        ",
+            "position": "25,15"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 22:01:42",
+            "keyStrokeInfo": "",
+            "position": "26,9"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 22,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 22:01:43",
+            "keyStrokeInfo": "<nav class=\"navbar navbar-expand-lg navbar-custom\">\r\n    <a class=\"navbar-brand\" href=\"#\">Navbar</a>\r\n    <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarNavDropdown\"\r\n      aria-controls=\"navbarNavDropdown\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\r\n      <!-- <span class=\"navbar-toggler-icon\"></span> -->\r\n      <span class=\"line\"></span> \r\n      <span class=\"line\"></span> \r\n      <span class=\"line\"></span>\r\n    </button>\r\n    <div class=\"collapse navbar-collapse\" id=\"navbarNavDropdown\">\r\n      <ul class=\"nav navbar-nav ml-auto\">\r\n        <li class=\"nav-item active\">\r\n          <a class=\"nav-link lia\" href=\"Home.html\">Home <span class=\"sr-only\">(current)</span></a>\r\n        </li>\r\n        <li class=\"nav-item\">\r\n          <a class=\"nav-link lia\" href=\"About.html\">About</a>\r\n        </li>\r\n        <li class=\"nav-item\">\r\n          <a class=\"nav-link lia\" href=\"Qualifications.html\">Qualification</a>\r\n        </li>\r\n        <li class=\"nav-item\">\r\n          <a class=\"nav-link lia\" hr\r\n",
+            "position": "27,9"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 22:01:43",
+            "keyStrokeInfo": "            ",
+            "position": "49,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 22:03:35",
+            "keyStrokeInfo": "    ",
+            "position": "49,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 22,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 22:03:36",
+            "keyStrokeInfo": "",
+            "position": "27,9"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 22:24:32",
+            "keyStrokeInfo": "<!-- ",
+            "position": "29,15"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 7,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 23:30:58",
+            "keyStrokeInfo": "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\">\r\n      <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\">\r\n  <link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css\">\r\n  <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css\">\r\n  <script src=\"https://code.jquery.com/jquery-3.5.1.min.js\"></script>\r\n  <script src=\"https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js\"></script>\r\n  <script src=\"https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js\"></script> ",
+            "position": "8,7"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 28,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 23:31:25",
+            "keyStrokeInfo": " <nav class=\"navbar navbar-expand-lg navbar-custom\">\r\n            <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarNavDropdown\"\r\n              aria-controls=\"navbarNavDropdown\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\r\n              <!-- <span class=\"navbar-toggler-icon\"></span> -->\r\n              <span class=\"line\"></span> \r\n              <span class=\"line\"></span> \r\n              <span class=\"line\"></span>\r\n            </button>\r\n            <div class=\"collapse navbar-collapse\" id=\"navbarNavDropdown\">\r\n              <ul class=\"nav navbar-nav ml-auto\">\r\n                <li class=\"nav-item active\">\r\n                  <a class=\"nav-link lia\" href=\"Home.html\">Home <span class=\"sr-only\">(current)</span></a>\r\n                </li>\r\n                <li class=\"nav-item\">\r\n                  <a class=\"nav-link lia\" href=\"About.html\">About</a>\r\n                </li>\r\n                <li class=\"nav-item\">\r\n                  <a class=\"nav-link lia\" href=\"Qualifications.html\">Qualification</a>\r\n                </li>\r\n                <li class=\"nav-item\">\r\n                  <a class=\"nav-link lia\" href=\"Project.html\">Project</a>\r\n                </li>\r\n                <li class=\"nav-item\">\r\n                    <a class=\"nav-link lia\" href=\"Contact.html\">Contact</a>\r\n                  </li>\r\n                </ul>\r\n              </div>\r\n            </nav>\r\n          ",
+            "position": "19,8"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 23:33:00",
+            "keyStrokeInfo": "<!-- ",
+            "position": "14,197"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 7,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 23:35:57",
+            "keyStrokeInfo": "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\">\r\n      <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\">\r\n  <link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css\">\r\n  <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css\">\r\n  <script src=\"https://code.jquery.com/jquery-3.5.1.min.js\"></script>\r\n  <script src=\"https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js\"></script>\r\n  <script src=\"https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js\"></script> ",
+            "position": "8,7"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 23:36:10",
+            "keyStrokeInfo": "",
+            "position": "14,98"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 23:36:13",
+            "keyStrokeInfo": "",
+            "position": "14,98"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:12:26",
+            "keyStrokeInfo": "",
+            "position": "48,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:12:26",
+            "keyStrokeInfo": "",
+            "position": "48,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:12:28",
+            "keyStrokeInfo": "        \r\n",
+            "position": "48,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:12:29",
+            "keyStrokeInfo": "\r\n",
+            "position": "48,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:12:54",
+            "keyStrokeInfo": "\r\n              ",
+            "position": "45,21"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:12:55",
+            "keyStrokeInfo": "",
+            "position": "46,15"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:12:56",
+            "keyStrokeInfo": "              ",
+            "position": "46,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:12:56",
+            "keyStrokeInfo": "",
+            "position": "45,21"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 29,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:15",
+            "keyStrokeInfo": "",
+            "position": "19,9"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:19",
+            "keyStrokeInfo": "",
+            "position": "20,9"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:19",
+            "keyStrokeInfo": "",
+            "position": "20,7"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:20",
+            "keyStrokeInfo": "",
+            "position": "20,5"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:20",
+            "keyStrokeInfo": "",
+            "position": "20,3"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:20",
+            "keyStrokeInfo": "",
+            "position": "20,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:20",
+            "keyStrokeInfo": "",
+            "position": "19,9"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:24",
+            "keyStrokeInfo": "",
+            "position": "19,15"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:24",
+            "keyStrokeInfo": "",
+            "position": "19,13"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:24",
+            "keyStrokeInfo": "",
+            "position": "19,11"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:24",
+            "keyStrokeInfo": "",
+            "position": "19,9"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:25",
+            "keyStrokeInfo": "",
+            "position": "19,7"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:32",
+            "keyStrokeInfo": "",
+            "position": "20,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:32",
+            "keyStrokeInfo": "",
+            "position": "19,31"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:36",
+            "keyStrokeInfo": "\r\n        ",
+            "position": "19,31"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 12,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:36",
+            "keyStrokeInfo": " <div class=\"background\">\r\n      <!-- </div> -->\r\n        <div class=\"header\">\r\n            <label class=\"logo\">NT</label>\r\n            <ul><div id=\"menu\">\r\n                <li><a class=\"a\" href=\"Home.html\">Home</a></li>\r\n                <li><a class=\"b\" href=\"About.html\">About me</a></li>\r\n                <li><a class=\"c\" href=\"Qualification.html\">Qualifications</a></li>\r\n                <li><a class=\"d\" href=\"Project.html\">Project</a></li>\r\n                <li><a class=\"active\" href=\"Contactme.html\">Contact me</a></li>\r\n            </div></ul>\r\n        </div>",
+            "position": "20,9"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:36",
+            "keyStrokeInfo": "        ",
+            "position": "31,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:41",
+            "keyStrokeInfo": "",
+            "position": "20,4"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:42",
+            "keyStrokeInfo": "",
+            "position": "20,3"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:42",
+            "keyStrokeInfo": "",
+            "position": "20,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:42",
+            "keyStrokeInfo": "",
+            "position": "19,31"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:47",
+            "keyStrokeInfo": "",
+            "position": "22,3"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:14:49",
+            "keyStrokeInfo": " ",
+            "position": "22,3"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:17:11",
+            "keyStrokeInfo": "",
+            "position": "27,35"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:17:14",
+            "keyStrokeInfo": "e",
+            "position": "27,35"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:17:15",
+            "keyStrokeInfo": "\"",
+            "position": "27,36"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:17:25",
+            "keyStrokeInfo": "",
+            "position": "23,35"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:17:26",
+            "keyStrokeInfo": "active\"",
+            "position": "23,35"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:17:27",
+            "keyStrokeInfo": "",
+            "position": "23,41"
         }
     ],
     "Project.html": [
@@ -42693,6 +43050,13 @@
             "keyStrokeTimeStamp": "Thu Apr 08 2021 10:31:27",
             "keyStrokeInfo": "",
             "position": "79,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 22:24:39",
+            "keyStrokeInfo": "<!-- ",
+            "position": "26,15"
         }
     ],
     "Qualification.html": [
@@ -60692,6 +61056,27 @@
             "keyStrokeTimeStamp": "Thu Apr 08 2021 10:31:05",
             "keyStrokeInfo": "  ",
             "position": "112,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 22:24:48",
+            "keyStrokeInfo": "<!-- ",
+            "position": "24,15"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 22:26:18",
+            "keyStrokeInfo": "",
+            "position": "24,9"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 22:26:45",
+            "keyStrokeInfo": "<!-- ",
+            "position": "26,15"
         }
     ],
     "Contact.html": [
@@ -67302,6 +67687,20 @@
             "keyStrokeTimeStamp": "Wed Apr 07 2021 21:08:51",
             "keyStrokeInfo": "  ",
             "position": "100,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:54",
+            "keyStrokeInfo": "",
+            "position": "8,7"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 22:25:25",
+            "keyStrokeInfo": "<!-- ",
+            "position": "49,13"
         }
     ],
     "style2.css": [
@@ -93086,6 +93485,195 @@
             "keyStrokeTimeStamp": "Wed Apr 07 2021 21:07:04",
             "keyStrokeInfo": "<!-- ",
             "position": "83,60"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:47:41",
+            "keyStrokeInfo": "",
+            "position": "8,7"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:47:46",
+            "keyStrokeInfo": "<!-- ",
+            "position": "9,192"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:47:57",
+            "keyStrokeInfo": "",
+            "position": "9,7"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:47:57",
+            "keyStrokeInfo": "<!-- ",
+            "position": "11,209"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:47:59",
+            "keyStrokeInfo": "",
+            "position": "8,7"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:04",
+            "keyStrokeInfo": "<!-- ",
+            "position": "9,192"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:12",
+            "keyStrokeInfo": "",
+            "position": "9,7"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:19",
+            "keyStrokeInfo": "<!-- ",
+            "position": "11,209"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:23",
+            "keyStrokeInfo": "",
+            "position": "9,15"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:23",
+            "keyStrokeInfo": "",
+            "position": "9,14"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:23",
+            "keyStrokeInfo": "",
+            "position": "9,13"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:23",
+            "keyStrokeInfo": "",
+            "position": "9,12"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:24",
+            "keyStrokeInfo": "",
+            "position": "9,11"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:28",
+            "keyStrokeInfo": "<!-- ",
+            "position": "9,192"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:28",
+            "keyStrokeInfo": "",
+            "position": "9,7"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:29",
+            "keyStrokeInfo": "<!-- ",
+            "position": "9,192"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:38",
+            "keyStrokeInfo": "",
+            "position": "9,16"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:39",
+            "keyStrokeInfo": "",
+            "position": "9,15"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:39",
+            "keyStrokeInfo": "",
+            "position": "9,14"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:39",
+            "keyStrokeInfo": "",
+            "position": "9,13"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:39",
+            "keyStrokeInfo": "",
+            "position": "9,12"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:39",
+            "keyStrokeInfo": "",
+            "position": "9,11"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:40",
+            "keyStrokeInfo": "",
+            "position": "9,10"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:40",
+            "keyStrokeInfo": "",
+            "position": "9,9"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:40",
+            "keyStrokeInfo": "",
+            "position": "9,8"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 21:48:41",
+            "keyStrokeInfo": "",
+            "position": "9,7"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 22:24:56",
+            "keyStrokeInfo": "<!-- ",
+            "position": "27,15"
         }
     ],
     "Qual.css": [
@@ -96242,6 +96830,55 @@
             "keyStrokeTimeStamp": "Wed Apr 07 2021 20:19:41",
             "keyStrokeInfo": "font-family: Bauhaus 93;",
             "position": "99,5"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 23:32:03",
+            "keyStrokeInfo": "\r\n",
+            "position": "23,2"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 23:32:03",
+            "keyStrokeInfo": "\r\n",
+            "position": "24,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 49,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 23:32:04",
+            "keyStrokeInfo": ".lia {\r\n    display: block;\r\n    color: white;\r\n    text-align: center;\r\n    padding: 16px;\r\n    text-decoration: none;\r\n    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;\r\n    font-weight: bold;\r\n    font-size:medium;\r\n}\r\n.navbar-custom {\r\n    background-color: rgb(1, 8, 10);\r\n}\r\n.navlist {\r\n    float: right;\r\n}\r\nli a {\r\n    display: block;\r\n    color: white;\r\n    text-align: center;\r\n    padding: 16px;\r\n    text-decoration: none;\r\n    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;\r\n    font-weight: bold;\r\n    \r\n    \r\n  }\r\n  .navcolor {\r\n    color: red !important;\r\n  }\r\n  \r\n  .navbar-toggler{\r\n    width: 47px;\r\n    height: 34px;\r\n    background-color: #7eb444;\r\n  }\r\n  .navbar-toggler .line{\r\n    width: 100%;\r\n    float: left;\r\n    height: 2px;\r\n    background-color: #fff;\r\n    margin-bottom: 5px;\r\n  }\r\n  \r\n  li a:hover {\r\n    background-color:rgb(6, 29, 36);\r\n    color: white;\r\n  }\r\n  /*NAV code ends  */",
+            "position": "25,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 23:32:21",
+            "keyStrokeInfo": "/* ",
+            "position": "74,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:13:26",
+            "keyStrokeInfo": "",
+            "position": "73,3"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:13:27",
+            "keyStrokeInfo": "/* ",
+            "position": "24,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Apr 09 2021 00:13:40",
+            "keyStrokeInfo": "",
+            "position": "74,1"
         }
     ],
     "Project.css": [
